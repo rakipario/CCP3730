@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movie Explorer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="best_movies">Best Movies</string>
+    <string name="category">Category</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="explore">Explore</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="movie_summary">Summary</string>
+    <string name="movie_actors">Actors</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_rate">Movie Rate</string>
+    <string name="movie_duration">Movie Duration</string>
+    <string name="couldn_t_fetch_movie">Couldn\'t fetch the movie</string>
+    <string name="min">min</string>
+    <string name="no_internet">You are offline</string>
+    <string name="movie_liked">Movie added to favorites</string>
+    <string name="back">Go Back</string>
+    <string name="share">Share</string>
+    <string name="title_activity_share">ShareActivity</string>
+    <string name="cancel">Cancel</string>
+    <string name="get_started">Get Started</string>
+    <string name="app_description">You can browse movies and shows by genre\nsearch for spesific title, or check out our\nrecommendation for you</string>
+</resources>

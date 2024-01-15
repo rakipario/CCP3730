@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MovieExplorer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/theme_black</item>
+        <item name="colorPrimaryDark">@color/theme_black_2</item>
+        <item name="colorPrimaryVariant">@color/theme_black_2</item>
+        <item name="android:textColorPrimary">@color/theme_white</item>
+        <item name="android:background">@color/theme_black</item>
+        <item name="android:textColor">@color/theme_white</item>
+
+    </style>
+
+    <style name="Theme.MovieExplorer" parent="Base.Theme.MovieExplorer" />
+</resources>
